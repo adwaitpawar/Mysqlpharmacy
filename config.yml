@@ -7,5 +7,5 @@ data:
     MYSQL_HOST=my-mysql-service
     MYSQL_DATABASE=pharmacy
     MYSQL_USERNAME=root
-    MYSQL_ROOT_PASSWORD=Adwait@123
+    MYSQL_ROOT_PASSWORD=Root@123
 
