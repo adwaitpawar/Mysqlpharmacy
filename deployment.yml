@@ -19,7 +19,7 @@ spec:
         - containerPort: 3306
         env:
         - name: MYSQL_ROOT_PASSWORD
-          value: Adwait@123
+          value: Root@123
         - name: MYSQL_DATABASE
           value: pharmacy
         volumeMounts:
